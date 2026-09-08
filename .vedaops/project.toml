@@ -1,0 +1,5 @@
+schema_version = 1
+id = "musubi"
+name = "Musubi"
+mutable = false
+capabilities = ["read"]
